@@ -1,4 +1,4 @@
-# Project-Heist
+# Project Heist
 
 ## Description:
 Project Heist is a RESTful API made using Python and Flask. This API is inspired by the popular Spanish TV show **Money Heist**. Using this API, one can get the information of characters in the Money Heist TV show.
