@@ -49,6 +49,13 @@ For getting the information of Berlin with **id=2**:
 
     https://projectheist.herokuapp.com/characters/2
     
+## Output:
+After entering the above URL, we will get the output as below.
+
+
+![](images/output.png)
+
+    
 ## Tip:
 **Chrome users:** Use this [JSON Formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) to see the output in a structured format.
 
