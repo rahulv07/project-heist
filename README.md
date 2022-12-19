@@ -59,4 +59,4 @@ After entering the above URL, we will get the output as below.
 ## Tip:
 **Chrome users:** Use this [JSON Formatter extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) to see the output in a structured format.
 
-If you would like to add a new character or request a new feature, please open an [issue](https://github.com/rahulv07/project-heist/issues) or feel free to open a pull request. For making a valid pull request do follow these [instructions](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+If you would like to add a new character or request a new feature, please open an [issue](https://github.com/rahulv07/project-heist/issues) or feel free to open a pull request. For making a valid pull request do follow these [instructions](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
