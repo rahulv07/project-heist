@@ -6,7 +6,7 @@ Project Heist is a RESTful API made using Python and Flask. This API is inspired
 ## How to use:
 **Syntax:** 
     
-    https://projectheist.herokuapp.com/characters/{id}
+    https://project-heist-rahulv07.vercel.app/characters/{id}
 
 where _id_ is a unique number for every character.
 
@@ -43,11 +43,11 @@ where _id_ is a unique number for every character.
 ## Example:
 For getting the information of Professor with **id=1**:
     
-    https://projectheist.herokuapp.com/characters/1
+    https://project-heist-rahulv07.vercel.app/characters/1
 
 For getting the information of Berlin with **id=2**:
 
-    https://projectheist.herokuapp.com/characters/2
+    https://project-heist-rahulv07.vercel.app/characters/2
     
 ## Output:
 After entering the above URL, we will get the output as below.
